@@ -23,6 +23,9 @@
 204.12.192.220 generativelanguage.googleapis.com
 204.12.192.220 alkalimakersuite-pa.clients6.google.com
 204.12.192.220 copilot.microsoft.com
+204.12.192.220 api.github.com
+204.12.192.220 api.githubcopilot.com
+204.12.192.220 api.individual.githubcopilot.com
 204.12.192.220 sydney.bing.com
 204.12.192.220 edgeservices.bing.com
 204.12.192.220 claude.ai
