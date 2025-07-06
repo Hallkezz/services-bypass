@@ -1,6 +1,8 @@
 @echo off
 setlocal EnableDelayedExpansion
 
+set "SCRIPT_VERSION=1.1.0"
+
 if "%1"=="admin" (
     echo Started with admin rights
 ) else (
@@ -23,6 +25,7 @@ if not exist "%HOSTS_TXT%" (
 :: MENU ==============================
 :main_menu
 cls
+echo Version: %SCRIPT_VERSION%
 echo ================================
 echo 1. Add Entries
 echo 2. Restore
