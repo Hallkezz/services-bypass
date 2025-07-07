@@ -1,6 +1,6 @@
 # <a href="https://github.com/Hallkezz/">Hallkezz</a><a href="https://github.com/Hallkezz/services-bypass">/services-bypass</a>
 
-Разблокировка множества западных сервисов: ChatGPT, Deepl, Claude, Grok, Spotify и другие.
+Обход блокировок множества западных сервисов: ChatGPT, Deepl, Claude, Grok, Copilot, Spotify и другие.
 
 ## ⚙️ Использование
 
