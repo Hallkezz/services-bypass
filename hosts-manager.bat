@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-set "SCRIPT_VERSION=1.1.0"
+set "SCRIPT_VERSION=1.1.1"
 
 if "%1"=="admin" (
     echo Started with admin rights
