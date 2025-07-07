@@ -57,3 +57,4 @@
 204.12.192.220 techdirect.dell.com
 204.12.192.220 gbxgateway.dell.com
 204.12.192.220 www.delltechnologies.com
+204.12.192.220 signon.oracle.com
