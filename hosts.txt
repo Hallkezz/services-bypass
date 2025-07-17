@@ -46,6 +46,7 @@
 204.12.192.220 www.spotify.com
 204.12.192.220 spotifycdn.com
 204.12.192.220 grok.com
+204.12.192.220 assets.grok.com
 204.12.192.220 download.microsoft.com
 204.12.192.220 www.msn.com
 204.12.192.220 api.msn.com
