@@ -45,6 +45,7 @@
 204.12.192.220 spotifycdn.com
 204.12.192.220 www.spotify.com
 204.12.192.220 spotifycdn.com
+204.12.192.220 accounts.x.ai
 204.12.192.220 grok.com
 204.12.192.220 assets.grok.com
 204.12.192.220 download.microsoft.com
@@ -63,3 +64,5 @@
 204.12.192.220 gbxgateway.dell.com
 204.12.192.220 www.delltechnologies.com
 204.12.192.220 signon.oracle.com
+204.12.192.220 elevenlabs.io
+204.12.192.220 api.us.elevenlabs.io
