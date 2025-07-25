@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-set "SCRIPT_VERSION=1.1.2"
+set "SCRIPT_VERSION=1.2.0"
 
 if "%1"=="admin" (
     echo Started with admin rights
@@ -49,6 +49,8 @@ if not exist "%HOSTS_BACKUP%" (
 ) else (
     echo Backup already exists.
 )
+
+>>"%HOSTS_FILE%" echo.
 
 for /f "usebackq delims=" %%a in ("%HOSTS_TXT%") do (
     findstr /x /c:"%%a" "%HOSTS_FILE%" >nul || echo %%a>>"%HOSTS_FILE%"
