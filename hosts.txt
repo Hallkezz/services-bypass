@@ -5,6 +5,7 @@
 204.12.192.220 w.deepl.com
 204.12.192.220 s.deepl.com
 204.12.192.220 ita-free.www.deepl.com
+204.12.192.220 appdownload.deepl.com
 204.12.192.220 www.deepl.com
 204.12.192.220 deepl.com
 204.12.192.220 chatgpt.com
