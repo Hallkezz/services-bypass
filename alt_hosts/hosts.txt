@@ -19,6 +19,8 @@
 50.7.85.220 tcr9i.chat.openai.com
 50.7.85.220 webrtc.chatgpt.com
 50.7.85.220 android.chat.openai.com
+50.7.85.220 sora.chatgpt.com
+50.7.85.220 videos.openai.com
 50.7.85.220 gemini.google.com
 50.7.85.220 aistudio.google.com
 50.7.85.220 generativelanguage.googleapis.com
