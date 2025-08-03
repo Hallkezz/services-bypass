@@ -67,3 +67,4 @@
 50.7.85.220 signon.oracle.com
 50.7.85.220 elevenlabs.io
 50.7.85.220 api.us.elevenlabs.io
+50.7.85.220 builds.parsec.app
