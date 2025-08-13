@@ -19,6 +19,3 @@
 ### ➕ Расширение списка заблокированных ресурсов
 
 Вы можете добавлять новые адреса заблокированных западных сервисов в файл [`hosts.txt`](hosts.txt)
-
-## Дополнительная информация
-Список [`hosts.txt`](hosts.txt) основан на репозитории [IPSets-For-Bypass-in-Russia](https://github.com/V3nilla/IPSets-For-Bypass-in-Russia) от [V3nilla](https://github.com/V3nilla)
