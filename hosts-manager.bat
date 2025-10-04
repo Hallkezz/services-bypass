@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-set "SCRIPT_VERSION=1.2.2"
+set "SCRIPT_VERSION=1.2.3"
 
 if "%1"=="admin" (
     echo Started with admin rights
@@ -74,4 +74,5 @@ if exist "%HOSTS_BACKUP%" (
 
 pause
 goto main_menu
+
 
