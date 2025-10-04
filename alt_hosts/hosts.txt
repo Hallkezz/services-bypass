@@ -4,6 +4,7 @@
 50.7.85.220 experimentation.deepl.com
 50.7.85.220 w.deepl.com
 50.7.85.220 s.deepl.com
+50.7.85.220 oneshot-free.www.deepl.com
 50.7.85.220 ita-free.www.deepl.com
 50.7.85.220 appdownload.deepl.com
 50.7.85.220 www.deepl.com
@@ -25,6 +26,8 @@
 50.7.85.220 aistudio.google.com
 50.7.85.220 generativelanguage.googleapis.com
 50.7.85.220 alkalimakersuite-pa.clients6.google.com
+50.7.85.220 google.qualtrics.com
+50.7.85.220 stitch.withgoogle.com
 50.7.85.220 copilot.microsoft.com
 50.7.85.220 api.github.com
 50.7.85.220 api.githubcopilot.com
@@ -70,3 +73,4 @@
 50.7.85.220 elevenlabs.io
 50.7.85.220 api.us.elevenlabs.io
 50.7.85.220 builds.parsec.app
+50.7.85.220 developer.android.com
